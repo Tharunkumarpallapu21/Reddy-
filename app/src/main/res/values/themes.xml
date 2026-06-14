@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SixYearsOneStory" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gold_primary</item>
+        <item name="colorPrimaryVariant">@color/gold_secondary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_red</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/background_cream</item>
+        <item name="colorSurface">@color/card_glass</item>
+        <item name="colorOnSurface">@color/text_dark</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/background_cream</item>
+        <item name="android:windowBackground">@color/background_cream</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="cardViewStyle">@style/CardViewStyle</item>
+    </style>
+
+    <style name="CardViewStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/card_glass</item>
+        <item name="cardElevation">8dp</item>
+        <item name="cardCornerRadius">24dp</item>
+    </style>
+</resources>

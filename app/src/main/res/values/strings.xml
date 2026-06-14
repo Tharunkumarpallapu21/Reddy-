@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">6 Years, One Story</string>
+    <string name="app_display_title">6 Years, One Story ❤️</string>
+    <string name="love_growing">Love Growing ❤️</string>
+    <string name="our_story">📖 Our Story</string>
+    <string name="six_years">6 Years of Love</string>
+    <string name="until_special_day">Until Your Special Day ✨</string>
+    <string name="days_left">🎂 %d Days Left</string>
+    <string name="happy_birthday">🎂 Happy Birthday!</string>
+    <string name="special_day_here">Your Special Day is Here ✨</string>
+</resources>
